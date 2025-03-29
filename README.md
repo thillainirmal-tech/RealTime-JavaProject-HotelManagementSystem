@@ -36,7 +36,7 @@ The **Hospitality Management System** is a Java-based application designed to ma
 ## ⚙️ Installation and Setup
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone thillainirmal-tech/RealTime-JavaProject-HotelManagementSystem.git
 ```
 2. **Import the project into IntelliJ IDEA**
 3. **Install MySQL and create the database:**
