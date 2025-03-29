@@ -62,7 +62,8 @@ private static final String PASSWORD = "your_password";
 - Improve the GUI design
 
 ## 👥 Contributors
-- [Your Name](https://github.com/yourgithubprofile)
+Thillai Nirmal K
+(https://github.com/thillainirmal-tech)
 
 ## 📜 License
 This project is licensed under the MIT License.
